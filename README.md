@@ -8,3 +8,9 @@
 • foter
 • section
 • aside
+
+
+
+⌂ profile [LinkedIN](https://www.linkedin.com/in/yauheni-mandryk-17b798224/)
+
+⌂ profile [GitHub](https://github.com/GAREET)
