@@ -1,0 +1,22 @@
+h1 {
+    margin: 20px;
+    padding: 30px;
+
+
+    .block_1 {
+        background-color: rgb;
+        color: rgb(10, 10, 10);
+        height: 80px;
+        width: 500px;
+        margin: 10px;
+        border: dotted
+    }
+
+    button {
+        background-color: darkgreen;
+        border: 3px solid black
+    }
+
+    button:hover {
+        background-color: rgba(169, 213, 169, 0.666);
+    }
