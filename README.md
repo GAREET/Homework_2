@@ -1,7 +1,7 @@
 # Home-work-2
 
 
-- Для выполнения домашнего задания я использовал программу Visual Studio. 
+- I used Visual Studio to do my homework.
 
 • heder
 • main
